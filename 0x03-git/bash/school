@@ -1,2 +1,8 @@
 #!/bin/bash
 echo "School"
+#!/bin/bash
+" The school is open!"
+EIT
+cat <<EOT>> bash/school
+#!/bin/bash
+"The school is open!"
